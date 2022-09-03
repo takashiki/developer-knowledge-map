@@ -494,7 +494,7 @@ Ruby、LUA、Swift、OC、Kotlin、Rust、Scala、R
 - [如何优雅的使用 phpStorm](https://lattecake.com/post/20075)
 - [使用 Xdebug 在 PHPStorm 中断点调试](https://segmentfault.com/a/1190000011387666)
 - [Material Theme UI for Jetbrains](https://github.com/ChrisRM/material-theme-jetbrains)
-- [如何在 PhpStorm 使用 Refactoring (重構)](https://oomusou.io/phpstorm/phpstorm-refactoring/)
+- [如何在 PhpStorm 使用 Refactoring (重構)](https://old-oomusou.goodjack.tw/phpstorm/phpstorm-refactoring/)
 - [使用 Upsource 实现代码审查 - jetbrains 系列](https://segmentfault.com/a/1190000015184297)
 
 ### 文本编辑器
